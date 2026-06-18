@@ -1,7 +1,4 @@
-<script setup>
-import testHello from '@/testHello.vue'
-</script>
 
 <template>
-  <testHello />
+  <router-view />
 </template>

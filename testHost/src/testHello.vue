@@ -1,3 +1,6 @@
 <template>
-    <h1>Hello test hosting claude flare</h1>
+   <div>
+        <h1>Hello test hosting claude flare</h1>
+        <h1>I test with branch</h1>
+   </div>
 </template>
